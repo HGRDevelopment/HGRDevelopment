@@ -10,7 +10,7 @@ Welcome to the GitHub repository of **HGR**! We specialize in developing high-qu
 
 ## About Us
 
-MyCompanyName is a software development company based in Belgium, founded by a passionate software development manager with extensive experience in C# and .NET. We aim to provide our clients with top-notch web solutions that cater to their specific needs.
+HGR is a software development and management company based in Belgium, founded by a passionate software development manager with extensive experience in C# and .NET. We aim to provide our clients with top-notch web solutions that cater to their specific needs.
 
 ## Technologies
 
